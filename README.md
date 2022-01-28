@@ -10,6 +10,6 @@
 
 [Homework6](https://ahanks8.github.io/Homework6/)
 
-[Homework7]()
+[Homework7](https://ahanks8.github.io/Homework7/)
 
 [Homework8]()
