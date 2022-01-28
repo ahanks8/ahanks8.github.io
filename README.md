@@ -2,7 +2,7 @@
 
 [Homework2](https://ahanks8.github.io/Homework2/)
 
-[Homework3]()
+[Homework3](https://ahanks8.github.io/Homework3/)
 
 [Homework4]()
 
