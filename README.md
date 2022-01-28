@@ -1,6 +1,6 @@
 # CNIT 133 Homework
 
-[Homework2]()
+[Homework2](https://ahanks8.github.io/Homework2/)
 
 [Homework3]()
 
